@@ -1,0 +1,40 @@
+
+:orphan:
+
+.. _sphx_glr_examples_sg_execution_times:
+
+Computation times
+=================
+**04:33.337** total execution time for **examples** files:
+
+- **00:51.835**: :ref:`sphx_glr_examples_mapping_GOES16_TrueColor.py` (``mapping_GOES16_TrueColor.py``)
+- **00:37.409**: :ref:`sphx_glr_examples_Isentropic_Interpolation.py` (``Isentropic_Interpolation.py``)
+- **00:19.676**: :ref:`sphx_glr_examples_500hPa_Vorticity_Advection.py` (``500hPa_Vorticity_Advection.py``)
+- **00:17.344**: :ref:`sphx_glr_examples_GOES_aircraft.py` (``GOES_aircraft.py``)
+- **00:16.266**: :ref:`sphx_glr_examples_xarray_500hPa_map.py` (``xarray_500hPa_map.py``)
+- **00:15.108**: :ref:`sphx_glr_examples_850hPa_Frontogenesis.py` (``850hPa_Frontogenesis.py``)
+- **00:14.403**: :ref:`sphx_glr_examples_500hPa_HGHT_Winds.py` (``500hPa_HGHT_Winds.py``)
+- **00:12.625**: :ref:`sphx_glr_examples_miller_composite.py` (``miller_composite.py``)
+- **00:11.108**: :ref:`sphx_glr_examples_Upperair_Obs.py` (``Upperair_Obs.py``)
+- **00:08.908**: :ref:`sphx_glr_examples_700hPa_RELH_Winds.py` (``700hPa_RELH_Winds.py``)
+- **00:07.615**: :ref:`sphx_glr_examples_500hPa_Absolute_Vorticity_winds.py` (``500hPa_Absolute_Vorticity_winds.py``)
+- **00:07.337**: :ref:`sphx_glr_examples_Differential_Temperature_Advection.py` (``Differential_Temperature_Advection.py``)
+- **00:06.141**: :ref:`sphx_glr_examples_Smoothing_Contours.py` (``Smoothing_Contours.py``)
+- **00:05.352**: :ref:`sphx_glr_examples_PV_baroclinic_isobaric.py` (``PV_baroclinic_isobaric.py``)
+- **00:05.222**: :ref:`sphx_glr_examples_MSLP_temp_winds.py` (``MSLP_temp_winds.py``)
+- **00:03.991**: :ref:`sphx_glr_examples_850hPa_Temperature_Advection.py` (``850hPa_Temperature_Advection.py``)
+- **00:03.801**: :ref:`sphx_glr_examples_850hPa_QVectors.py` (``850hPa_QVectors.py``)
+- **00:03.561**: :ref:`sphx_glr_examples_850hPa_TMPC_Winds.py` (``850hPa_TMPC_Winds.py``)
+- **00:03.506**: :ref:`sphx_glr_examples_HILO_Symbol_Plot.py` (``HILO_Symbol_Plot.py``)
+- **00:03.312**: :ref:`sphx_glr_examples_Precipitation_Map.py` (``Precipitation_Map.py``)
+- **00:02.956**: :ref:`sphx_glr_examples_250hPa_Hemispheric_Plot.py` (``250hPa_Hemispheric_Plot.py``)
+- **00:02.840**: :ref:`sphx_glr_examples_Observational_Data_Cross_Section.py` (``Observational_Data_Cross_Section.py``)
+- **00:02.816**: :ref:`sphx_glr_examples_Satellite_Example.py` (``Satellite_Example.py``)
+- **00:02.431**: :ref:`sphx_glr_examples_GFS_Widget.py` (``GFS_Widget.py``)
+- **00:02.028**: :ref:`sphx_glr_examples_Hovmoller_Diagram.py` (``Hovmoller_Diagram.py``)
+- **00:01.324**: :ref:`sphx_glr_examples_SkewT_Example.py` (``SkewT_Example.py``)
+- **00:01.269**: :ref:`sphx_glr_examples_Sounding_Plotter.py` (``Sounding_Plotter.py``)
+- **00:01.210**: :ref:`sphx_glr_examples_Ageostrophic_Wind_Example.py` (``Ageostrophic_Wind_Example.py``)
+- **00:00.973**: :ref:`sphx_glr_examples_Wind_Shear_Vectors_Example.py` (``Wind_Shear_Vectors_Example.py``)
+- **00:00.614**: :ref:`sphx_glr_examples_Analytic_300hPa_Trough.py` (``Analytic_300hPa_Trough.py``)
+- **00:00.358**: :ref:`sphx_glr_examples_HurricaneTracker.py` (``HurricaneTracker.py``)
